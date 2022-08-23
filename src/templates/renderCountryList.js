@@ -6,4 +6,4 @@ export function renderCountryList({ flags, name }) {
            <b>${name.official}</p>
     </li>
     `;
-}
+};

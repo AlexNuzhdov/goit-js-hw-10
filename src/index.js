@@ -44,11 +44,3 @@ function cleanHtml() {
   refs.countryList.innerHTML = '';
   refs.countryInfo.innerHTML = '';
 };
-
-
-
-
-
-
-
-
